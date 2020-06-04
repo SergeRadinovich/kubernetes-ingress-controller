@@ -111,6 +111,13 @@ Kubernetes Slack server.
 If you've spotted a bug, please open an issue
 on our [Github](https://github.com/kong/kubernetes-ingress-controller/issues).
 
+### Community meetings
+
+You can join monthly meetings hosted by the maintainers of the project
+to ask questions, provide feedback or just come and say hello.
+The meeting takes place on second Tuesday of the month at 10 am Pacific time.
+You can join the meeting via [Zoom](https://zoom.us/j/982093601).
+
 ## License
 
 ```text
