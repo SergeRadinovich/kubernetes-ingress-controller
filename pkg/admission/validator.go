@@ -4,9 +4,9 @@ import (
 	"context"
 	"strings"
 
+	configuration "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/apis/configuration/v1"
 	"github.com/golang/glog"
 	"github.com/hbagdi/go-kong/kong"
-	configuration "github.com/kong/kubernetes-ingress-controller/pkg/apis/configuration/v1"
 	"github.com/pkg/errors"
 	corev1 "k8s.io/api/core/v1"
 )

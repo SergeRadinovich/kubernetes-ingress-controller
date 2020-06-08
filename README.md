@@ -109,7 +109,7 @@ You can also talk to the developers behind Kong in the
 Kubernetes Slack server.
 
 If you've spotted a bug, please open an issue
-on our [Github](https://github.com/kong/kubernetes-ingress-controller/issues).
+on our [Github](https://github.com/SergeRadinovich/kubernetes-ingress-controller/issues).
 
 ## License
 
@@ -140,4 +140,4 @@ limitations under the License.
 [getting-started-guide]: docs/guides/getting-started.md
 [badge-travis-image]: https://travis-ci.org/Kong/kubernetes-ingress-controller.svg?branch=master
 [badge-travis-url]: https://travis-ci.org/Kong/kubernetes-ingress-controller
-[bintray-master-builds]: https://bintray.com/kong/kubernetes-ingress-controller/master
+[bintray-master-builds]: https://bintray.com/SergeRadinovich/kubernetes-ingress-controller/master

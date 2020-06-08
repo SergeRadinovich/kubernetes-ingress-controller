@@ -3,7 +3,7 @@
 export GO111MODULE=on
 
 VERSION="kubernetes-1.15.3"
-PACKAGE_NAME=github.com/kong/kubernetes-ingress-controller
+PACKAGE_NAME=github.com/SergeRadinovich/kubernetes-ingress-controller
 SCRIPT_ROOT=$(dirname ${BASH_SOURCE})/..
 
 if [[ ! -d /tmp/code-generator ]];

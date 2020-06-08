@@ -21,10 +21,10 @@ package v1
 import (
 	time "time"
 
-	configurationv1 "github.com/kong/kubernetes-ingress-controller/pkg/apis/configuration/v1"
-	versioned "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned"
-	internalinterfaces "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/internalinterfaces"
-	v1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/listers/configuration/v1"
+	configurationv1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/apis/configuration/v1"
+	versioned "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned"
+	internalinterfaces "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/internalinterfaces"
+	v1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/listers/configuration/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 	watch "k8s.io/apimachinery/pkg/watch"

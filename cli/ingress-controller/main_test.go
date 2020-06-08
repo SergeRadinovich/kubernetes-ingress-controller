@@ -22,9 +22,9 @@ import (
 	"syscall"
 	"testing"
 
+	"github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/ingress/controller"
+	"github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/ingress/store"
 	"github.com/eapache/channels"
-	"github.com/kong/kubernetes-ingress-controller/pkg/ingress/controller"
-	"github.com/kong/kubernetes-ingress-controller/pkg/ingress/store"
 )
 
 func TestCreateApiserverClient(t *testing.T) {

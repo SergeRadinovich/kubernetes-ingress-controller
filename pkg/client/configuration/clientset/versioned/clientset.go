@@ -19,8 +19,8 @@ limitations under the License.
 package versioned
 
 import (
-	configurationv1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1"
-	configurationv1beta1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1"
+	configurationv1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1"
+	configurationv1beta1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1"
 	discovery "k8s.io/client-go/discovery"
 	rest "k8s.io/client-go/rest"
 	flowcontrol "k8s.io/client-go/util/flowcontrol"

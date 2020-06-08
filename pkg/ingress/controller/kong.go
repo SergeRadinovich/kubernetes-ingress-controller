@@ -26,6 +26,8 @@ import (
 	"sort"
 	"strings"
 
+	"github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/ingress/controller/parser"
+	"github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/ingress/utils"
 	"github.com/blang/semver"
 	"github.com/golang/glog"
 	"github.com/hbagdi/deck/diff"
@@ -35,8 +37,6 @@ import (
 	"github.com/hbagdi/deck/state"
 	deckutils "github.com/hbagdi/deck/utils"
 	"github.com/hbagdi/go-kong/kong"
-	"github.com/kong/kubernetes-ingress-controller/pkg/ingress/controller/parser"
-	"github.com/kong/kubernetes-ingress-controller/pkg/ingress/utils"
 	"github.com/pkg/errors"
 )
 

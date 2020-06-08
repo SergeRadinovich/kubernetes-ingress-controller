@@ -19,11 +19,11 @@ limitations under the License.
 package fake
 
 import (
-	clientset "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned"
-	configurationv1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1"
-	fakeconfigurationv1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1/fake"
-	configurationv1beta1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1"
-	fakeconfigurationv1beta1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1/fake"
+	clientset "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned"
+	configurationv1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1"
+	fakeconfigurationv1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1/fake"
+	configurationv1beta1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1"
+	fakeconfigurationv1beta1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1/fake"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/watch"
 	"k8s.io/client-go/discovery"

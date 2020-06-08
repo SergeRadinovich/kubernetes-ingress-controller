@@ -19,7 +19,7 @@ limitations under the License.
 package fake
 
 import (
-	v1beta1 "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1"
+	v1beta1 "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned/typed/configuration/v1beta1"
 	rest "k8s.io/client-go/rest"
 	testing "k8s.io/client-go/testing"
 )

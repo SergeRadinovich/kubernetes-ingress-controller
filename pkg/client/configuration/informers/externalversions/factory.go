@@ -23,9 +23,9 @@ import (
 	sync "sync"
 	time "time"
 
-	versioned "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned"
-	configuration "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/configuration"
-	internalinterfaces "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/internalinterfaces"
+	versioned "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/clientset/versioned"
+	configuration "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/configuration"
+	internalinterfaces "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/internalinterfaces"
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 	schema "k8s.io/apimachinery/pkg/runtime/schema"

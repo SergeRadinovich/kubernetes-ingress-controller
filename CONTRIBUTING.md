@@ -120,7 +120,7 @@ Please check the [deployment guide](/docs/deployment/README.md)
 To run unit-tests, just run
 
 ```console
-$ cd $GOPATH/src/github.com/kong/kubernetes-ingress-controller
+$ cd $GOPATH/src/github.com/SergeRadinovich/kubernetes-ingress-controller
 $ make test
 ```
 
@@ -129,7 +129,7 @@ $ make test
 Makefile will produce a release binary, as shown above. To publish this
 to a wider Kubernetes user base, push the image to a container registry.
 Our images are hosted on
-[Bintray](https://bintray.com/kong/kubernetes-ingress-controller).
+[Bintray](https://bintray.com/SergeRadinovich/kubernetes-ingress-controller).
 
 An example release might look like:
 

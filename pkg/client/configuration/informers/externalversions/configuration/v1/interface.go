@@ -19,7 +19,7 @@ limitations under the License.
 package v1
 
 import (
-	internalinterfaces "github.com/kong/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/internalinterfaces"
+	internalinterfaces "github.com/SergeRadinovich/kubernetes-ingress-controller/pkg/client/configuration/informers/externalversions/internalinterfaces"
 )
 
 // Interface provides access to all the informers in this group version.

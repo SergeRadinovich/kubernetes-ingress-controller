@@ -756,23 +756,23 @@ Please read the changelog and test in your environment.
  - The initial versions  were rapildy iterated to deliver
    a working ingress controller.
 
-[0.9.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.8.1...0.9.0
-[0.8.1]: https://github.com/kong/kubernetes-ingress-controller/compare/0.8.0...0.8.1
-[0.8.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.7.1...0.8.0
-[0.7.1]: https://github.com/kong/kubernetes-ingress-controller/compare/0.7.0...0.7.1
-[0.7.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.6.2...0.7.0
-[0.6.2]: https://github.com/kong/kubernetes-ingress-controller/compare/0.6.1...0.6.2
-[0.6.1]: https://github.com/kong/kubernetes-ingress-controller/compare/0.6.0...0.6.1
-[0.6.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.5.0...0.6.0
-[0.5.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.4.0...0.5.0
-[0.4.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.3.0...0.4.0
-[0.3.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.2.2...0.3.0
-[0.2.2]: https://github.com/kong/kubernetes-ingress-controller/compare/0.2.1...0.2.2
-[0.1.3]: https://github.com/kong/kubernetes-ingress-controller/compare/0.1.2...0.1.3
-[0.2.1]: https://github.com/kong/kubernetes-ingress-controller/compare/0.2.0...0.2.1
-[0.1.2]: https://github.com/kong/kubernetes-ingress-controller/compare/0.1.1...0.1.2
-[0.1.1]: https://github.com/kong/kubernetes-ingress-controller/compare/0.1.0...0.1.1
-[0.2.0]: https://github.com/kong/kubernetes-ingress-controller/compare/0.1.0...0.2.0
-[0.1.0]: https://github.com/kong/kubernetes-ingress-controller/compare/v0.0.5...0.1.0
-[v0.0.5]: https://github.com/kong/kubernetes-ingress-controller/compare/v0.0.4...v0.0.5
-[v0.0.4]: https://github.com/kong/kubernetes-ingress-controller/compare/7866a27f268c32c5618fba546da2c73ba74d4a46...v0.0.4
+[0.9.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.8.1...0.9.0
+[0.8.1]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.8.0...0.8.1
+[0.8.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.7.1...0.8.0
+[0.7.1]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.7.0...0.7.1
+[0.7.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.6.2...0.7.0
+[0.6.2]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.6.1...0.6.2
+[0.6.1]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.6.0...0.6.1
+[0.6.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.5.0...0.6.0
+[0.5.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.4.0...0.5.0
+[0.4.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.3.0...0.4.0
+[0.3.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.2.2...0.3.0
+[0.2.2]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.2.1...0.2.2
+[0.1.3]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.1.2...0.1.3
+[0.2.1]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.2.0...0.2.1
+[0.1.2]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.1.1...0.1.2
+[0.1.1]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.1.0...0.1.1
+[0.2.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/0.1.0...0.2.0
+[0.1.0]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/v0.0.5...0.1.0
+[v0.0.5]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/v0.0.4...v0.0.5
+[v0.0.4]: https://github.com/SergeRadinovich/kubernetes-ingress-controller/compare/7866a27f268c32c5618fba546da2c73ba74d4a46...v0.0.4
