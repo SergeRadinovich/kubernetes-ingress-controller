@@ -23,8 +23,8 @@ import (
 	"testing"
 
 	"github.com/eapache/channels"
-	"github.com/kong/kubernetes-ingress-controller/internal/ingress/controller"
-	"github.com/kong/kubernetes-ingress-controller/internal/ingress/store"
+	"github.com/kong/kubernetes-ingress-controller/pkg/ingress/controller"
+	"github.com/kong/kubernetes-ingress-controller/pkg/ingress/store"
 )
 
 func TestCreateApiserverClient(t *testing.T) {
