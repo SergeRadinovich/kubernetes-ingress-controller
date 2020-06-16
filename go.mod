@@ -1,4 +1,4 @@
-module github.com/kong/kubernetes-ingress-controller
+module github.com/SergeRadinovich/kubernetes-ingress-controller
 
 go 1.13
 
